@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="clipcart">clipcart</string>
+    <string name="grib">grib</string>
+    <string name="status">X\'s turn</string>
+
+</resources>
